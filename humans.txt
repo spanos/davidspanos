@@ -1,0 +1,1 @@
+I had the notion to make this site purely with HTML and CSS, a decision which I simultaneously announce with pride and regret deeply. Several things need fixing up, I know. Please take a look around and enjoy! Many thanks to Stack Overflow and CSS-Tricks.
